@@ -2,8 +2,13 @@ f1
 f2
 f3
 f4
+<<<<<<< HEAD
 f5
 f6
 hotfix1
 hotfix2
 
+=======
+upgrade1
+upgrade2
+>>>>>>> upgrades
