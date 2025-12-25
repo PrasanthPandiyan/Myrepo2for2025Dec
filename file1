@@ -14,6 +14,13 @@ upgrade2
 >>>>>>> upgrades
 updateing from the githum gui
 updating from the gitcli windows local repo.
+
 ```sh
 cmd rmdir /myrepo/mytestfile
+```
+
+```sh
+cd dillinger
+npm i
+node app
 ```
