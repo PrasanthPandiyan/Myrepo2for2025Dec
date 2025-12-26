@@ -1,3 +1,9 @@
+```sh
+cd dillinger
+npm i
+node app
+```
+
 #Header 
 ##sub header
 f1
